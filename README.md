@@ -1,5 +1,4 @@
-# MRL_Foundation_Review
-A Systematic Review of Molecular Representation Learning Foundation Models
+# A Systematic Review of Molecular Representation Learning Foundation Models
 
 ## Purpose of This Repository
 Welcome to the **A Systematic Review of Molecular Representation Learning Foundation Models**! This repository has been created to provide supplementary documents to be published in **Breifings in BioInformatics** journal. The purpose of this repository is to ensure **transparency, reproducibility, and accessibility** of all data, methodologies, and figures used in the review process.
